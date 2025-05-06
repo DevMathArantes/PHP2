@@ -1,0 +1,1 @@
+1- Lista com todas as funções referentes a arrays: https://www.php.net/manual/en/ref.array.php
