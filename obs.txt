@@ -1,1 +1,15 @@
 1- Lista com todas as funções referentes a arrays: https://www.php.net/manual/en/ref.array.php
+
+2- Lista com todas as funções referentes a strings: https://www.php.net/manual/en/ref.strings.php
+
+3- Quando for executar um arquivo pelo terminal, caso ele esteja dentro de uma pasta, você precisa utilizar o
+seguinte comando para executa-lo:
+
+    cd "nome da pasta" (aqui você estará adentrando a pasta)
+    php "nome do arquivo" (executando o arquivo normalmente)
+
+    observação: cd .. (serve para sair do arquivo)
+
+4- Outra forma de acessar arquivos dentro de pastas pelo terminal: 
+
+    php X\Y\Z.php (executa o arquivo Z que está dentro da pasta Y que por sua vez está dentro da pasta X)
