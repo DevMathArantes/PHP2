@@ -13,3 +13,11 @@ seguinte comando para executa-lo:
 4- Outra forma de acessar arquivos dentro de pastas pelo terminal: 
 
     php X\Y\Z.php (executa o arquivo Z que está dentro da pasta Y que por sua vez está dentro da pasta X)
+
+5- Lista de funções do sistema de arquivos: https://www.php.net/manual/en/ref.filesystem.php
+
+6- Tipos de erro no php:
+
+    fatal error: interrompe a aplicação
+    uncaught error: erro não identificado
+    warning: aviso de erro
