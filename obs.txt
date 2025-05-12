@@ -21,3 +21,6 @@ seguinte comando para executa-lo:
     fatal error: interrompe a aplicação
     uncaught error: erro não identificado
     warning: aviso de erro
+
+7- Utilize o comando php -S localhost: X -t public (X é a porta desejada, recomendado que seja maior que 3000), 
+serve para abrir a pasta public em um servidor web 
